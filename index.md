@@ -48,7 +48,9 @@
     </div>
     
     <div id="btn-grid">
-        <button>do it with Grid</button>
+        <a href="https://arman-sakif.github.io/1st-webpage-using-Grid/" target="_blank">
+            <button>do it with Grid</button>
+        </a>
     </div>
     <div id="btn-simple">
         <a href="https://arman-sakif.github.io/1st-webpage/" target="_blank">
