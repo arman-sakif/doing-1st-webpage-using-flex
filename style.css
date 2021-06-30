@@ -1,0 +1,31 @@
+img{
+    max-width: 100%;
+}
+h1{
+    text-align: center;
+}
+.flex-container{
+    background-color: khaki;
+    display: flex;
+    flex-wrap: wrap; /*nowrap is default*/
+    /*flex-direction: is by default row;*/
+    justify-content: center;
+}
+
+/*below line means that I want to work on divs under flex container*/
+.flex-container > div{
+    font-size: 25px;
+    text-align: center;
+    margin: 0px 30px 20px 30px;
+    padding-bottom: 20px;
+    width: 300px;
+    background-color: white;
+
+}
+.description{
+    color: silver;
+}
+#btn{
+    align-content: center;
+    padding: 10px;
+}
